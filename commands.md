@@ -4,6 +4,12 @@ eCommerce RESTful API on Django Rest Framework
 # Packages
 django
 python-dotenv 1.0.0
+djangorestframework==3.14.0
+pytest==7.2.2
+pytest-django==4.5.2
+black==23.3.0
+flake8==6.0.0
+
 
 # Commands
 pip install -r requirements.txt
